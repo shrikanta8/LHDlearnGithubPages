@@ -4,8 +4,14 @@ body { display: flex;
  flex-direction: column;
   justify-content: center; 
   align-items: center;
-   min-height: 100vh; padding-bottom: 2rem;
-    margin: 5%; background-image: url("https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif"); background-repeat: no-repeat; background-size: cover; 
+   min-height: 100vh; 
+   padding-bottom: 2rem;
+    margin: 5%; 
+    background-image: url("https://media.giphy.com/media/DKnMqdm9i980E/giphy.gif"); 
+    /* background-image: url('https://media.giphy.com/media/l2SqiOMQxG82Gto4M/giphy.gif') */
+    background-repeat: no-repeat; background-size: cover; 
    font-family: 'ZCOOL KuaiLe', cursive;
    font-size: 52px;
+   color: white;
+   font-weight: bold;
    }
